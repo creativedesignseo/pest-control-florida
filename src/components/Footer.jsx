@@ -9,7 +9,7 @@ function Footer() {
         <div className="footer-grid">
           <div className="footer-brand">
             <Link to="/" className="footer-logo">
-              <img src="/images/Exterminator.svg" alt="Florida Pest Control" className="logo-img" />
+              <img src="/images/Exterminator-logo-wh.svg" alt="Florida Pest Control" className="logo-img" />
             </Link>
             <p className="footer-tagline">
               Protecting Florida families since 2008. Safe treatments for homes with kids and pets.

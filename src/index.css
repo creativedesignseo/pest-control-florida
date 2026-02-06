@@ -15,8 +15,8 @@
   --color-primary-dark: #16a34a;
   --color-primary-light: #4ade80;
   --color-icon: #15803d;
-  --color-secondary: #1a365d;
-  --color-secondary-light: #2a4a7a;
+  --color-secondary: #032721;
+  --color-secondary-light: #064a3b;
   --color-accent: #0ea5e9;
   
   /* Neutrals */
@@ -178,14 +178,15 @@ ul, ol {
 }
 
 .btn-secondary {
-  background: linear-gradient(135deg, var(--color-secondary) 0%, #0f2744 100%);
+  background: linear-gradient(135deg, #032721 0%, #011a14 100%);
   color: var(--color-white);
-  box-shadow: 0 4px 14px rgba(26, 54, 93, 0.3);
+  box-shadow: 0 4px 14px rgba(3, 39, 33, 0.3);
 }
 
 .btn-secondary:hover {
+  background: linear-gradient(135deg, #064a3b 0%, #032721 100%);
   transform: translateY(-3px);
-  box-shadow: 0 8px 25px rgba(26, 54, 93, 0.4);
+  box-shadow: 0 8px 25px rgba(3, 39, 33, 0.5);
 }
 
 .btn-outline {
