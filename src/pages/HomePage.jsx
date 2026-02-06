@@ -11,7 +11,7 @@ const trustBadges = [
 
 const services = [
   { 
-    image: '/images/termite-defense.png', 
+    icon: Bug, 
     title: 'Termite Defense', 
     description: 'Protect your investment from Florida\'s most destructive pests with our comprehensive termite solutions.',
     link: '/services#termites'
