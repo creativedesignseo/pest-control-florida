@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1523 366" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-738.994305,-4917.303904)">
+        <g transform="matrix(1,0,0,1,0,2050)">
+            <g transform="matrix(2.765636,0,0,2.765636,-3718.601981,2098.359036)">
+                <g transform="matrix(1,0,0,1,-1.199443,-0.239889)">
+                    <path d="M1613.007,288.711C1655.827,274.823 1698.647,274.771 1741.467,288.711C1744.52,353.355 1720.184,390.61 1678.137,410.154C1631.009,395.09 1612.156,351.753 1613.007,288.711Z" style="fill:rgb(3,39,33);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-1.199443,0)">
+                    <path d="M1678.137,410.154L1677.352,278.275C1677.352,278.275 1714.578,278.155 1741.467,288.711C1750.277,389.818 1678.137,410.154 1678.137,410.154Z" style="fill:rgb(39,72,67);"/>
+                </g>
+                <g transform="matrix(1,0,0,1.12234,0,-47.124399)">
+                    <path d="M1629.613,294.993C1658.174,313.77 1731.291,376.931 1714.534,385.191C1695.194,371.261 1680.129,359.379 1668.43,349.085C1639.551,323.675 1631.177,307.944 1629.613,294.993Z" style="fill:rgb(114,165,46);"/>
+                </g>
+                <g transform="matrix(-1,0,0,1.12234,3355.008596,-47.124399)">
+                    <path d="M1629.613,294.993C1658.174,313.77 1731.291,376.931 1714.534,385.191C1695.194,371.261 1680.129,359.379 1668.43,349.085C1639.551,323.675 1631.177,307.944 1629.613,294.993Z" style="fill:rgb(114,165,46);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.774001,0,0,0.774001,-46.900459,2612.703907)">
+                <text x="1538.703px" y="627.098px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:226.02px;">Ex</text>
+                <g transform="matrix(226.019836,0,0,226.019836,2978.916939,627.097716)">
+                </g>
+                <text x="1815.158px" y="627.098px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:226.02px;fill:rgb(124,170,38);">T<tspan x="1936.445px 2062.146px " y="627.098px 627.098px ">er</tspan>minator</text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,129 @@
+.commercial-hero {
+  background: linear-gradient(135deg, #1e3a5f 0%, #0f2744 100%);
+}
+
+/* Industries */
+.industries-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--spacing-xl);
+}
+
+.industry-card {
+  text-align: center;
+  padding: var(--spacing-2xl);
+}
+
+.industry-icon {
+  width: 60px;
+  height: 60px;
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-lg);
+}
+
+.industry-card h3 {
+  font-size: 1.125rem;
+  color: var(--color-secondary);
+}
+
+/* Features */
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--spacing-xl);
+}
+
+.feature-card {
+  text-align: center;
+  padding: var(--spacing-2xl);
+}
+
+.feature-icon {
+  width: 70px;
+  height: 70px;
+  background: linear-gradient(135deg, var(--color-secondary) 0%, var(--color-secondary-light) 100%);
+  border-radius: var(--radius-lg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto var(--spacing-lg);
+  color: var(--color-primary);
+}
+
+.feature-card h3 {
+  font-size: 1.25rem;
+  color: var(--color-secondary);
+  margin-bottom: var(--spacing-sm);
+}
+
+.feature-card p {
+  color: var(--color-gray-600);
+}
+
+/* Benefits */
+.benefits-box {
+  background: var(--color-secondary);
+  border-radius: var(--radius-lg);
+  padding: var(--spacing-2xl);
+  color: var(--color-white);
+}
+
+.benefits-box h2 {
+  font-size: 1.75rem;
+  margin-bottom: var(--spacing-xl);
+  text-align: center;
+}
+
+.benefits-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--spacing-lg);
+}
+
+.benefit-item {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+}
+
+.benefit-item .check-icon {
+  color: var(--color-primary);
+  flex-shrink: 0;
+}
+
+/* CTA */
+.commercial-cta {
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%);
+  padding: var(--spacing-3xl) 0;
+}
+
+.commercial-cta h2 {
+  font-size: 2rem;
+  color: var(--color-secondary);
+  margin-bottom: var(--spacing-md);
+}
+
+.commercial-cta p {
+  color: var(--color-secondary);
+  opacity: 0.8;
+  margin-bottom: var(--spacing-xl);
+}
+
+.commercial-cta .btn-primary {
+  background: var(--color-secondary);
+  color: var(--color-white);
+}
+
+@media (max-width: 1024px) {
+  .industries-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .industries-grid,
+  .features-grid,
+  .benefits-grid {
+    grid-template-columns: 1fr;
+  }
+}
